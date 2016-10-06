@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>A Touch Of Class</title>
+    <style>
+	
+      
+      /* Jof's Styling */
+        img {display:block;}
+        span {font-family:'Myriad Pro',arial, helvetica, sans-serif;line-height:18px;font-size:12px;color:#000000;}
+        
+      
+        #head {font-size:15px;line-height:22px;}
+        ul li {color:#7399c6;font-weight:800}
+        .foot {font-weight: 800;font-size: 19px;line-height:22px;}
+        #terms{font-weight: 400;font-size:12px;}
+        #red {color:red!important;font-weight:800;}
+        .compliance {color:#000000; text-align:center; font-size:10px;  font-family:Arial; font-weight:400; text-decoration:none;}
+		/* End Jof Style */
+		 
+		/* Some resets and issue fixes */
+        #outlook a { padding:0; }
+		body{ width:100% !important; -webkit-text; size-adjust:100%; -ms-text-size-adjust:100%; margin:0; padding:0; }     
+        .ReadMsgBody { width: 100%; }
+        .ExternalClass {width:100%;} 
+        .backgroundTable {margin:0 auto; padding:0; width:100%;!important;} 
+        table td {border-collapse: collapse;}
+        .ExternalClass * {line-height: 115%;}	
+        
+        /* End reset */
+		
+		
+		/* These are our tablet/medium screen media queries */
+        @media screen and (max-width: 630px){
+                
+				
+			/* Display block allows us to stack elements */                      
+            *[class="mobile-column"] {display: block;} 
+			
+			/* Some more stacking elements */
+            *[class="mob-column"] {float: none !important;width: 100% !important;}     
+			     
+			/* Hide stuff */
+            *[class="hide"] {display:none !important;}          
+            
+			/* This sets elements to 100% width and fixes the height issues too, a god send */
+			*[class="100p"] {width:100% !important; height:auto !important;}			        
+				
+			/* For the 2x2 stack */			
+			*[class="condensed"] {padding-bottom:40px !important; display: block;}
+			
+			/* Centers content on mobile */
+			*[class="center"] {text-align:center !important; width:100% !important; height:auto !important;}            
+			
+			/* 100percent width section with 20px padding */
+			*[class="100pad"] {width:100% !important; padding:20px;} 
+			
+			/* 100percent width section with 20px padding left & right */
+			*[class="100padleftright"] {width:100% !important; padding:0 20px 0 20px;} 
+			
+			/* 100percent width section with 20px padding top & bottom */
+			*[class="100padtopbottom"] {width:100% !important; padding:20px 0px 20px 0px;} 
+			
+		
+        }
+			
+        
+    </style>
+    
+   
+</head>
+
+
+<div style="background:#fcfcfc;">
+
+<body style="padding:0; margin:0" bgcolor="#fcfcfc">
+
+<table border="0" cellpadding="0" cellspacing="0" style="margin: 0; padding: 0" width="100%" bgcolor="#ffffff">
+    <tr>
+        <td align="center" valign="top">
+        
+           <table width="600" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff">
+               <tr height="15">
+                   <td class="compliance" align="center"><a href="[openInBrowser]" class="compliance">View this email in your browser</a>
+                   </td>
+               </tr>
+               <tr>
+                   <td align="center">
+                       <table width="530" cellpadding="0" cellspacing="0" border="0">
+                           <tr>
+                               <td align="left">
+                                   <img src="http://old.mtdcnc.com/uploads/staffftp/CNC_Training/2016/Oct/img/millcnclogo.png" width="146" alt="Mills CNC"/>
+                               </td>
+                               <td align="right">
+                                   <img src="http://old.mtdcnc.com/uploads/staffftp/CNC_Training/2016/Oct/img/doosan-logo.jpg" width="39" alt="Doosan"/>
+                               </td>
+                           </tr>
+                           <tr height="60">
+                               <td colspan="2">&nbsp;</td>
+                           </tr>
+                           <tr height="60">
+                               <td colspan="2">
+                                   <img src="http://old.mtdcnc.com/uploads/staffftp/CNC_Training/2016/Oct/img/smart-options.jpg" width="292" alt="Smart Options" />
+                               </td>
+                           </tr>
+                           <tr height="90">
+                               <td colspan="2">
+                                   <span id="head">SMART Options: 5 year Warranty and Service Plan on<br>
+                                   Doosan multi-tasking SMX 3100 and VCF 850 5AX (5-axis) machines.</span>
+                               </td>
+                           </tr>
+                           <tr>
+                               <td colspan="2">
+                                   <img src="http://old.mtdcnc.com/uploads/staffftp/CNC_Training/2016/Oct/img/Think-Smart.png" width="426" alt="Think SMART. Act SMART. Be SMART"/>
+                               </td>
+                           </tr>
+                       </table>
+                   </td>
+               </tr>
+               <tr>
+                   <td align="center">
+                       <img src="http://old.mtdcnc.com/uploads/staffftp/CNC_Training/2016/Oct/img/hero-machine.jpg" width="600" alt="5 Axis" />
+                   </td>
+               </tr>
+               <tr>
+                   <td align="center">
+                       <table width="520" cellpadding="0" cellspacing="0" border="0">
+                           <tr>
+                               <td align="left">
+                                   <span id="bodytxt">
+                                       Our latest, advanced multi-tasking Doosan machine tools are reliable, productive and accurate. To keep
+                                       them that way, we’ve introduced a new Service Initiative called Mills CNC’s <span id="red">SMART OPTIONS 5 YEAR
+                                       WARRANTY</span> to help protect you and your machine tool’s performance now…and in the future.<br><br>
+                                       So, in the unlikely event your new Doosan machine breaks down…develops a fault sometime down
+                                       the line...or is damaged by operator error (i.e. spindle collision caused by programming error), your
+                                       <span id="red">SMART OPTIONS 5 YEAR WARRANTY</span>* means Mills CNC Service Engineers will be on hand, right away,
+                                       to repair the machine and get it (and you) up and running.<br><br>
+                                       No fuss…no trouble…no worries.<br><br>
+                                       Mills CNC’s <span id="red">SMART OPTIONS WARRANTIES</span> help lower the cost of ownership and are another great
+                                       example of Mills CNC supporting you and your Doosan machine from day one.<br /><br />
+                                   </span>
+                               </td>
+                           </tr>
+                           <tr height="2">
+                               <td bgcolor="#dedfe0" style="line-height:2px;font-size:2px;">&nbsp;</td>
+                           </tr>
+                           <tr height="110">
+                               <td align="left">
+                                   <span>
+                                       <span id="red">SMART Options 5 year Waranty - what's included</span><br>
+                                       <ul>
+                                           <li>Comprehensive 5 year breakdown cover includes parts and labour</li>
+                                           <li>5 Year Servicing Plan - includes 1 service visit per year</li>
+                                           <li>5 Year Spare Parts service kit - 1 kit issued per year</li>
+                                       </ul>
+                                   </span>
+                               </td>
+                           </tr>
+                           <tr height="2">
+                               <td bgcolor="#dedfe0" style="line-height:2px;font-size:2px;">&nbsp;</td>
+                           </tr>
+                           <tr>
+                               <td align="left">
+                                   <span class="foot">
+                                       <br>If 1,825 days trouble-free machining sounds good - call
+                                       Mills now on <span style="color:red;font-size:19px;">01926 736736</span> for more information.<br><br>
+                                       <span id="terms">* Terms and conditions apply. Contact Mills CNC on 01926 736736 for details.</span><br><br>
+                                   </span>
+                               </td>
+                           </tr>
+                       </table>
+                   </td>
+               </tr>
+               <tr>
+                   <td align="center"><img src="http://old.mtdcnc.com/uploads/staffftp/CNC_Training/2016/Oct/img/CNC-Footer.jpg" width="600" alt="Mills CNC: Like no-one else"/>
+                   </td>
+               </tr>
+               <tr height="25">
+                   <td>&nbsp;</td>
+               </tr>
+               <tr height="15">
+                   <td class="compliance" align="center"><a href="[unsubscribe]" class="compliance">To unsubscribe, please click here</a></td>
+               </tr>
+            </table>
+        </td>
+    </tr>
+            
+    </table>
+
+    
+</body>
+    </div>
+</html>
